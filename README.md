@@ -1,8 +1,6 @@
 # Angular2-practice
 Practice following Tour of Heroes Tutorial
 
-#### By Chris Kuiper
-
 ## Description
 
 _Practice Angular2 following Tour of Heroes Tutorial._
@@ -23,11 +21,7 @@ _No known bugs!_
 - Angular2
 - CSS
 
-## Support and contact details
-_If any contact is needed you can reach me at my email at chris.kuiper@gmail.com_
-
 ### License
 
 *This software is licensed under the MIT license.*
 
-Copyright (c) 2016 **By Chris Kuiper**
